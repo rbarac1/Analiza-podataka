@@ -1,0 +1,11 @@
+total 8
+-rw-r--r--. 1 rbarac rbarac 37 Oct 26 10:21 Zadatak_2.txt
+-rw-r--r--. 1 rbarac rbarac 35 Oct 26 10:47 Zadatak_3.sh
+-rw-r--r--. 1 rbarac rbarac  0 Oct 26 10:47 output_3.txt
+total 32
+-rwxr-xr-x. 1 rbarac rbarac 8904 Lis 26 11:04 a.out
+-rw-r--r--. 1 rbarac rbarac  180 Lis 26 10:47 output_3.txt
+-rw-r--r--. 1 rbarac rbarac   37 Lis 26 10:21 Zadatak_2.txt
+-rw-r--r--. 1 rbarac rbarac   35 Lis 26 10:47 Zadatak_3.sh
+-rw-r--r--. 1 rbarac rbarac   80 Lis 26 10:56 Zadatak_4.cpp
+-rw-r--r--. 1 rbarac rbarac  141 Lis 26 11:04 Zadatak_5.cpp
